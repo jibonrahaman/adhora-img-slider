@@ -1,0 +1,1 @@
+# adhora-img-slider
